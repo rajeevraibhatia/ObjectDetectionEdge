@@ -1,6 +1,4 @@
-Object Detection using the TensorFlow 
-
-(Mast Detection)
+# Object Detection using the TensorFlow  (Mast Detection)
 
 Project: 
 Duration: 15th June – 30th July 2017
